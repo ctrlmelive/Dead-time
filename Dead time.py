@@ -8,7 +8,7 @@ target = theDay + timedelta(days=120)
 print(target)
 print(target.weekday())
 
-# And then I push 120 days - timedelta(days=120)
+#  And then I push 120 days - timedelta(days=120)
 target = theDay - timedelta(days=120)
 
 print(target)
